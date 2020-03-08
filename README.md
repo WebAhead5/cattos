@@ -1,10 +1,4 @@
 # cattos
 
-this is a test
+// read me file was cleared 
 
-this is an edit
- this is another edit   sdfm
- this is another edit   
- 
- 
- never mind
